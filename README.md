@@ -1,12 +1,11 @@
-requestAnimationFrame
-=====================
+# requestAnimationFrame Polyfill
 > requestAnimationFrame polyfill by [Erik Möller](https://twitter.com/erikjmoller).
 
 Polyfill for requestAnimationFrame and cancelAnimationFrame.
 
-This version of the code is only lightly tested. It's provoked no
-complaints since the initial checkin of 2013-9-16, but it hasn't been
-deliberately tested on a zillion targets either.
+This is a fork from [Erik Möller's repository](https://github.com/darius/requestAnimationFrame) in order to get Bower support.
+
+This version of the code is only lightly tested. It's provoked no complaints since the initial checkin of 2013-9-16, but it hasn't been deliberately tested on a zillion targets either.
 
 ## Credits
 Fixes from [Paul Irish](https://github.com/paulirish), [Tino Zijdel](https://twitter.com/tinozijdel), [Andrew Mao](https://github.com/mizzao), [Klemen Slavič](https://github.com/KrofDrakula), [Darius Bacon](https://github.com/darius)
@@ -26,7 +25,7 @@ Adapted from https://gist.github.com/paulirish/1579671 which is derived from:
 ## Contributing
 
 Pull requests welcome.
-Please respect the code style in place.
+Please respect the [Nexxa's code style](https://github.com/Nexxa/javascript-style-guide).
 
 ## License
 
