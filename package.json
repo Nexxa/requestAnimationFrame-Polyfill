@@ -1,0 +1,20 @@
+{
+  "name": "requestAnimationFrame-Polyfill",
+  "version": "1.0.0",
+  "description": "requestAnimationFrame Polyfill",
+  "main": "requestAnimationFrame.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nexxa/requestAnimationFrame-Polyfill.git"
+  },
+  "keywords": [
+    "nexxa",
+    "requestAnimationFrame",
+    "polyfill"
+  ],
+  "author": "Nexxa <nexxa.developer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nexxa/requestAnimationFrame-Polyfill/issues"
+  }
+}
