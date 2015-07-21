@@ -1,5 +1,5 @@
 {
-  "name": "requestAnimationFrame-Polyfill",
+  "name": "requestAnimationFrame-polyfill",
   "version": "1.0.0",
   "description": "requestAnimationFrame Polyfill",
   "main": "requestAnimationFrame.js",
@@ -16,5 +16,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Nexxa/requestAnimationFrame-Polyfill/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1"
   }
 }
