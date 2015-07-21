@@ -12,7 +12,12 @@
     "requestAnimationFrame",
     "polyfill"
   ],
-  "author": "Nexxa <nexxa.developer@gmail.com>",
+  "author": "Erik Möller <https://twitter.com/erikjmoller>",
+  "contributors": [
+    "Nexxa <nexxa.developer@gmail.com>",
+    "Stefano Magrassi <stefano.magrassi@nexxa.it>",
+    "StefanoMagrassi <stefano.magrassi@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Nexxa/requestAnimationFrame-Polyfill/issues"
