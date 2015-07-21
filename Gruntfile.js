@@ -5,6 +5,7 @@ module.exports = function(grunt) {
   // Load plugins
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-bower-version');
 
   // Config
   grunt.initConfig({
@@ -29,10 +30,15 @@ module.exports = function(grunt) {
         src : '<%= pkg.name %>.js',
         dest: '<%= pkg.name %>.min.js'
       }
+    },
+    
+    // Bower version
+    bower_version: {
+      update: []
     }
   });
 
   // Tasks
-  grunt.registerTask('default', ['jshint', 'uglify']);
+  grunt.registerTask('default', ['jshint', 'uglify', 'bower_version']);
 
 };
