@@ -13,7 +13,7 @@
     "Erik Möller <https://twitter.com/erikjmoller>"
   ],
   "description": "requestAnimationFrame Polyfill",
-  "main": "requestAnimationFrame-polyfill.min.js",
+  "main": "requestAnimationFrame-polyfill.js",
   "keywords": [
     "nexxa",
     "requestAnimationFrame",
