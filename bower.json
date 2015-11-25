@@ -1,6 +1,6 @@
 {
   "name": "requestAnimationFrame-Polyfill",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "https://github.com/Nexxa/requestAnimationFrame-Polyfill",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "Erik Möller <https://twitter.com/erikjmoller>"
   ],
   "description": "requestAnimationFrame Polyfill",
-  "main": "requestAnimationFrame-polyfill.min.js",
+  "main": "requestAnimationFrame-polyfill.js",
   "keywords": [
     "nexxa",
     "requestAnimationFrame",
