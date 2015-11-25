@@ -1,6 +1,6 @@
 {
   "name": "requestAnimationFrame-polyfill",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "requestAnimationFrame Polyfill",
   "main": "requestAnimationFrame.js",
   "repository": {
